@@ -1,1 +1,84 @@
+<!DOCTYPE htmel?>
+<html lang="eng">
+<head>
+  <title> My Recipe </title>
+<meta charset="utf-8">
+</head>
+<style>
+body {background-color: #fefbef;
+}
+</style>
+</body>
+</html>
+
+
+<p style="width:550px;">
+   <h1 style="font-family: Arial"<h1>
+     <h1>Hello Welcome!</h1>
+  </p>
+
+<p style="width:550px;">
+  <center h2 style="font-family:Arial"></h2>
+  <p style="border:3px; border-style:solid; border-color: #d7c3b1 ; padding: 1em;">"Hello my name is Henry Lopez and one of my favorite recipe I love to cook is Pozole
+    because it's one of my favorite dish growing up."</p>
+</center>
+</p>
+
+<hr>
+
+<p style="width:550px;">
+<center h3 style="font-family:Arial"></h3>
+  <h3 "IMAGES OF DISH" ></h3>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2gni4DRKUBQhqn_3ABctu41L3jjt6W22FA&usqp=CAU"alt="Images Pozole" width="300" height="345">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeO_4ilVwhdvo77TLB8V1J7HzdFqWS4RLgvg&usqp=CAU" alt="Images Pozole2" width="300" height="345">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3q0BW5noso0gf13eFcT6prqqFbUCgK-j-yw&usqp=CAU" alt="Images Pozole3" width="300" height="345">
+</center>
+</P>
+
+
+
+<hr>
+<p style="width:550px;">
+  <left h4 style="font-family:Arial";">"INGREDIENTS/INFO ON WHERE TO GET"</h4>
+    <blockquote> "Here you will find the Ingredients that you will need in order to make the soup, but I bet your asking yourself anybody can try this soup at any Mexican restaurant
+    which is true, anyone can try this soup at any Mexican restaurant. But every family has a very different recipe pass down to them, that why its better to have bowl of fresh Pozole at home
+    aorund the love onces that really cares for you. Food always bring family closer together."
+  </blockquote>
+  <blockquote>
+    <ul>
+     <li>Pork shoulder or butt roast. </li>
+     <li>Aromatics:</li>
+     <dd>-Garlic cloves</dd>
+    <dd>-yellow onion quartered</dd>
+    <li>Spices:</li>
+    <dd>-Bay leaves</dd>
+    <dd>-Oregano</dd>
+    <dd>-ground cumin</dd>
+    <li>Chiles:</li>
+    <dd>-Gaujillo</dd>
+    <dd>-Ancho</dd>
+    <dd>-chile de árbol</dd>
+    <li>Broth Base:</li>
+    <dd>-Better Than Bouillon chicken flavor, or chicken bouillon granules and tomato sauce</dd>
+    </ul>
+</left>
+</p>
+<hr>
+
+<p style="width:550px;">
+  <left h5 style="font-family:Arial";">"INSTRUCTIONS"</h5>
+<blockquoute>
+
+<dd>1.Season pork with salt and pepper. In a large pot over medium heat, add pork, onion, garlic, cloves, cumin seeds, bay leaf, and broth. Add enough water to cover pork by 2”. Bring to a boil, then cover and reduce heat to a simmer. Let simmer 1 ½ hours, skimming foam off top as necessary.</dd>
+
+<dd>2.Place dried chiles into a medium bowl and pour 2 cups boiling water over. Let soak 30 minutes. Place chiles and about ½ cup of their soaking liquid into a blender. Blend until smooth, adding more water as necessary.</dd>
+<dd>3.Add chile puree and hominy to pot with pork. Continue to simmer, covered, until pork is very tender, 1 hour and 30 minutes more.</dd>
+<dd>4.Serve pozole with radishes, cabbage, and cilantro. </dd>
+
+
+
+<hr>
+<footer> <a href=<henrylopez.20311@gmail.com>
+   "If you have any qustiones you can context me at"
+  <a href="Henrylopez.20311@gmail.com">Henrylopez.20311@gmail.com"</a>
 
